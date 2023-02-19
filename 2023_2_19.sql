@@ -1,3 +1,5 @@
+-- 세그먼트 추출 코드 작성
+
 -- noph
 SELECT a.courierid AS courierid
 		,a.active_type AS group_name
