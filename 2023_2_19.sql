@@ -1,3 +1,7 @@
+아래는 좀더 타겟 추출을 쉽게 간소화 하고자 생각해본 스크립트
+JOIN 문을 여러 번 사용할 수 있다는 것을 최근에 알고 적용해보았다.. 굉장히 편함
+스크립트 작성 자체는 쉬웠는데 원하는 데이터가 있는 테이블을 찾는 것이 역시 어렵다.
+
 -- noph
 SELECT a.courierid AS courierid
 		,a.active_type AS group_name
